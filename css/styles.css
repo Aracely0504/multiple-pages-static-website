@@ -8,11 +8,11 @@ p {
 }
 footer {
   text-align: center;
-  display: flex;
-  justify-content: space-evenly;
 }
+
 footer a {
-  color: #438711;
+  margin: 0 10px;
+  color: green;
 }
 
 .croissant-image {
